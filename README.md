@@ -1,0 +1,1 @@
+This repository contains a Python code example that showcases an uncommon error: performing arithmetic operations with incompatible data types. The example demonstrates how to use exception handling (try-except blocks) to catch and manage these errors.  The solution file provides improved error handling, including more specific error messages.
